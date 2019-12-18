@@ -151,6 +151,10 @@
         .data__weather_temperature {
           margin-left: 3vh;
           font-size: 201px; } }
+      @media (max-width: 400px) {
+        .data__weather_temperature {
+          margin-left: 0;
+          font-size: 121px; } }
     .data__weather_icon {
       display: inline-block;
       width: 150px;
