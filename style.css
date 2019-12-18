@@ -149,7 +149,8 @@
       letter-spacing: 0; }
       @media (max-width: 800px) {
         .data__weather_temperature {
-          margin-left: 10vh; } }
+          margin-left: 3vh;
+          font-size: 201px; } }
     .data__weather_icon {
       display: inline-block;
       width: 150px;
